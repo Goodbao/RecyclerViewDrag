@@ -1,6 +1,6 @@
 # RecyclerViewDrag
  RecyclerView拖拽移动，长按小图标拖拽，侧滑删除
-
+[简书地址](https://www.jianshu.com/writer#/notebooks/10654956/notes/57329187)
 
 ![长按小图标拖拽.gif](https://upload-images.jianshu.io/upload_images/1627327-baac15e6b3473e02.gif?imageMogr2/auto-orient/strip)
 
