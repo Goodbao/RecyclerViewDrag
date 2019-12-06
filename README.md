@@ -1,8 +1,12 @@
 # RecyclerViewDrag
  RecyclerView拖拽移动，长按小图标拖拽，侧滑删除
 
-长按小图标拖拽.gif
-侧滑删除.gif
+
+![长按小图标拖拽.gif](https://upload-images.jianshu.io/upload_images/1627327-baac15e6b3473e02.gif?imageMogr2/auto-orient/strip)
+
+
+![侧滑删除.gif](https://upload-images.jianshu.io/upload_images/1627327-41c8f7fc0cad9814.gif?imageMogr2/auto-orient/strip)
+
 Android RecyclerView出来也很多年了，是非常成熟的控件，Github上工具一堆，做的非常全，侧滑、拖拽、动画都封装好的，但是工作需求，这种小功能就不用别人的，自己学习一下，写一个简单的代码即可实现。
 
 RecyclerView的拖拽跟侧滑删除，其实就是使用 ItemTouchHelper 来实现，而我们只要写一下CallBack 继承 ItemTouchHelper.Callback()，重写里面的方法就行。
